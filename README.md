@@ -10,4 +10,3 @@ Bookstoc, a groundbreaking application that transforms how retail investors docu
 
 ## Setup localhost
 
-> Check Readme Updates
